@@ -11,8 +11,8 @@ export class MailTrap implements IMailSender
             host: "smtp.mailtrap.io",
             port: 2525,
             auth: {
-            user: "149d0d794bf2bd",
-            pass: "fe04ef3210828c"
+            user: "yourmailtrapuser",
+            pass: "yourmailtrappass"
             }
         })
     }
