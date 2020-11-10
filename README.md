@@ -14,7 +14,7 @@
 
 # Installation
 
-* `git clone https://github.com/ThiagoBastosN/LoginRESTFulAPI.git`
+* `git clone https://github.com/ThiagoBastosN/SOLID-principles-with-nodejs.git`
 * `cd solid-principles-with-nodejs`
 * `npm install`
 * Inside `external/implementations/MailTrap.ts` change `this.transporter` configurations to your mailtrap configurations.
